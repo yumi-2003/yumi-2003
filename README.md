@@ -12,7 +12,6 @@
 
 # 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lngyin&theme=react&hide_border=false&include_all_commits=false&count_private=false)
-![GitHub Streak Stats](https://nrzak-streak-stats.vercel.app/?username=lngyin&theme=react&hide_border=false)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lngyin&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
