@@ -37,7 +37,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yumi-2003&show_icons=true&theme=calm_pink&hide_border=false" alt="Ingyin's GitHub Stats" />
+  <img src="https://github-readme-stats-alpha.vercel.app/api?username=yumi-2003&show_icons=true&theme=calm_pink&hide_border=false" alt="Ingyin's GitHub Stats" />
 </p>
 
 <p align="center">
@@ -45,11 +45,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yumi-2003&layout=compact&theme=calm_pink&hide_border=false" alt="Top Languages" />
+  <img src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=yumi-2003&layout=compact&theme=calm_pink&hide_border=false" alt="Top Languages" />
 </p>
-
-> [!NOTE]
-> *The GitHub Stats and Top Languages cards occasionally experience downtime due to high traffic on the public service. If they don't appear immediately, they should return soon! The Streak Stats card is provided as a reliable alternative.*
 
 
 ---
