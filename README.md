@@ -37,15 +37,15 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yumi-2003&show_icons=true&theme=calm_pink&hide_border=false&v=5" alt="Ingyin's GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=yumi-2003&show_icons=true&theme=calm_pink&hide_border=false" alt="Ingyin's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yumi-2003&theme=calm-pink&hide_border=false&v=5" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yumi-2003&theme=calm-pink&hide_border=false" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yumi-2003&layout=compact&theme=calm_pink&hide_border=false&v=5" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=yumi-2003&layout=compact&theme=calm_pink&hide_border=false" alt="Top Languages" />
 </p>
 
 
@@ -62,6 +62,5 @@
 ---
 
 <p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i> ✨
+  <i>"Code is like humor. When you have to explain it, it's bad."</i> ✨
 </p>
-
